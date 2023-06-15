@@ -40,5 +40,5 @@ CREATE PROCEDURE date(sec INT)
     END //
     delimiter ;
      
-     SELECT chet(1) AS 'Четные числа';
+     SELECT chet(11) AS 'Четные числа';
     
